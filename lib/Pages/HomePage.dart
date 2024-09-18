@@ -118,7 +118,7 @@ class _HomePageState extends State<HomePage> {
                           MaterialPageRoute(
                               builder: (context) => PlatformDetailPage(
                                   imageUrl: "assets/images/youtube_premium.png",
-                                  platfromName: "Youtube Premium")));
+                                  platfromName: "Youtube Premiums")));
                     },
                     child: Container(
                       height: 50,
